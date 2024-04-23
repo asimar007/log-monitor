@@ -15,19 +15,27 @@ This script is designed to automate the analysis and monitoring of log files. It
 
 1. Clone the repository:
 
-`git clone https://github.com/asimar007/log-monitor.git`
+```
+git clone https://github.com/asimar007/log-monitor.git
+```
 
 2. Navigate to the directory:
 
-`cd log-monitor`
+```
+cd log-monitor
+```
 
 3. Permission
 
-`chmod +x log-monitor.sh`
+```
+chmod +x log-monitor.sh
+```
 
 3. Bash script:
 
-`./log-monitor.sh /var/log/system.log`
+```
+./log-monitor.sh /var/log/system.log
+```
 
 `/var/log/system.log` You can give your own path
 
