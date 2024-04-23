@@ -43,4 +43,4 @@ To test the script, you can create a sample log file with dummy log entries and 
 
 ## Output
 
-![Log Monitoring](https://example.com/log_monitoring_image.png)
+![Log Monitoring](https://github.com/asimar007/log-monitor/blob/main/Output.png?raw=true)
